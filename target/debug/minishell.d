@@ -1,0 +1,1 @@
+/mnt2/zjh/code/Goleta/session_90/b/target/debug/minishell: /mnt2/zjh/code/Goleta/session_90/b/src/lexer.rs /mnt2/zjh/code/Goleta/session_90/b/src/main.rs /mnt2/zjh/code/Goleta/session_90/b/src/parser.rs /mnt2/zjh/code/Goleta/session_90/b/src/shell.rs
